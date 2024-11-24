@@ -57,17 +57,17 @@ flutter:
     - images/medical_insurance.jpeg
 ```
 
-Place medical insurance image in the images folder:
+Running the Application
 
-```
-insurancecostpredictor/
-├── images/
-│   └── medical_insurance.jpeg
-```
-
-Running the Application:
 Start an Emulator or Connect a Device:
 Use Android Studio to launch an emulator or connect a physical device.
+
+Run the App:
+```
+flutter run
+```
+
+Hot Reload (during development): Make changes and save to see updates instantly.
 
 
 License
