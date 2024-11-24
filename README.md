@@ -14,18 +14,19 @@ A Flutter mobile application that predicts medical insurance costs based on pers
 Features
 
 Predicts medical insurance costs based on the following:
-Age
-BMI (Body Mass Index)
-Number of children
-Gender
-Smoking status
+ - Age
+ - BMI (Body Mass Index)
+ - Number of children
+ - Gender
+ - Smoking status
 
 <h2>Prerequisites</h2>
 Ensure you have the following tools installed:
 
-Flutter SDK: Install Flutter
-Dart SDK (comes with Flutter)
-Android Studio (for Android emulation)
+Flutter SDK:
+- Install Flutter
+- Dart SDK (comes with Flutter)
+- Android Studio (for Android emulation)
 
 Git: Install Git
 
