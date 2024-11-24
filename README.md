@@ -1,7 +1,9 @@
 
-<h1>API ENPOINT</h1>: https://linear-regression-model-qaq0.onrender.com/predict
+<h1>API ENPOINT</h1>
 
-<h1>VIDEO DEMO</h1>: 
+https://linear-regression-model-qaq0.onrender.com/predict
+
+<h1>VIDEO DEMO</h1>
 
 
 <h1>Medical Insurance Cost Predictor</h1>
@@ -10,7 +12,7 @@
 A Flutter mobile application that predicts medical insurance costs based on personal health metrics and lifestyle factors using machine learning.
 Features
 
-Predicts medical insurance costs based on:
+Predicts medical insurance costs based on the following:
 Age
 BMI (Body Mass Index)
 Number of children
