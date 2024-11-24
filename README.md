@@ -5,6 +5,7 @@ https://linear-regression-model-qaq0.onrender.com/predict
 
 <h1>VIDEO DEMO</h1>
 
+https://www.youtube.com/watch?v=sljkiD-dQmw
 
 <h1>Medical Insurance Cost Predictor</h1>
 
