@@ -1,1 +1,73 @@
-# linear_regression_model
+
+<h1>API ENPOINT</h1>: https://linear-regression-model-qaq0.onrender.com/predict
+
+<h1>VIDEO DEMO</h1>: 
+
+
+<h1>Medical Insurance Cost Predictor</h1>
+![Screenshot_20241124_173033](https://github.com/user-attachments/assets/c2c2fe59-c785-48c4-b70d-2f909b8c9910)
+
+A Flutter mobile application that predicts medical insurance costs based on personal health metrics and lifestyle factors using machine learning.
+Features
+
+Predicts medical insurance costs based on:
+Age
+BMI (Body Mass Index)
+Number of children
+Gender
+Smoking status
+
+<h2>Prerequisites</h2>
+Ensure you have the following tools installed:
+
+Flutter SDK: Install Flutter
+Dart SDK (comes with Flutter)
+Android Studio (for Android emulation)
+
+Git: Install Git
+
+<h2>Installation</h2>
+Clone the Repository:
+
+```
+git clone https://github.com/KennyKvn001/farm-ed_flutter_app 
+cd insurancecostpredictor
+```
+Install Dependencies: Inside the project directory, run:
+
+```flutter pub get```
+
+Add required dependencies to pubspec.yaml:
+
+```
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+```
+
+Configure assets in pubspec.yaml:
+
+```
+flutter:
+  assets:
+    - images/medical_insurance.jpeg
+```
+
+Place medical insurance image in the images folder:
+
+```
+insurancecostpredictor/
+├── images/
+│   └── medical_insurance.jpeg
+```
+
+Running the Application:
+Start an Emulator or Connect a Device:
+Use Android Studio to launch an emulator or connect a physical device.
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
