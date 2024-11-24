@@ -7,7 +7,8 @@ https://linear-regression-model-qaq0.onrender.com/predict
 
 
 <h1>Medical Insurance Cost Predictor</h1>
-(https://github.com/user-attachments/assets/5bf342b5-8937-4b1e-a19a-b94bed28fbf1)
+
+![Screenshot_20241124_173033](https://github.com/user-attachments/assets/5bf342b5-8937-4b1e-a19a-b94bed28fbf1)
 
 A Flutter mobile application that predicts medical insurance costs based on personal health metrics and lifestyle factors using machine learning.
 Features
