@@ -44,6 +44,7 @@ def predict(data: PredictInput):
     smoker = 1 if data.smoker else 0
 
    
+
     # input_values = np.array([
     #     data.age,
     #     sex,
@@ -59,7 +60,6 @@ def predict(data: PredictInput):
         "children": data.children,
         "smoker": smoker
     }])
-
 
 
 
