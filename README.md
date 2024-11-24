@@ -90,6 +90,4 @@ flutter run
 
 Hot Reload (during development): Make changes and save to see updates instantly.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
