@@ -48,8 +48,26 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.1.0
-```
 
+```
+<h1>Folder Structure</h1>
+
+```
+ insurancecostpredictor/
+│
+├── lib/                    
+│   └── main.dart          
+│
+├── android/               
+│
+├── ios/                   
+│
+├── images/                
+│
+├── pubspec.yaml          
+│
+└── README.md 
+                        ```
 Configure assets in pubspec.yaml:
 
 ```
