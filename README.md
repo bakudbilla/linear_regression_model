@@ -23,7 +23,7 @@ Predicts medical insurance costs based on the following:
 <h2>Prerequisites</h2>
 Ensure you have the following tools installed:
 
-Flutter SDK:
+- Flutter SDK
 - Install Flutter
 - Dart SDK (comes with Flutter)
 - Android Studio (for Android emulation)
