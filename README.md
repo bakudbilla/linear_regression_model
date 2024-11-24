@@ -1,7 +1,7 @@
 
 <h1>API ENPOINT</h1>
 
-https://linear-regression-model-qaq0.onrender.com/predict
+https://linear-regression-model-qaq0.onrender.com
 
 <h1>VIDEO DEMO</h1>
 
